@@ -1,1 +1,2 @@
-print('Hello, World!')
+def init(inputs):
+	print('Hello, World!')
